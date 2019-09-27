@@ -1,0 +1,10 @@
+﻿  Решение уравнения.cpp
+D:\Уроки geekbrains\Алгоритмы и структура данных\Задания\Индекс массы тела\Решение уравнения\Решение уравнения.cpp(14,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :   см. объявление "scanf"
+D:\Уроки geekbrains\Алгоритмы и структура данных\Задания\Индекс массы тела\Решение уравнения\Решение уравнения.cpp(16,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :   см. объявление "scanf"
+D:\Уроки geekbrains\Алгоритмы и структура данных\Задания\Индекс массы тела\Решение уравнения\Решение уравнения.cpp(18,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :   см. объявление "scanf"
+D:\Уроки geekbrains\Алгоритмы и структура данных\Задания\Индекс массы тела\Решение уравнения\Решение уравнения.cpp(20,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :   см. объявление "scanf"
+  Решение уравнения.vcxproj -> D:\Уроки geekbrains\Алгоритмы и структура данных\Задания\Индекс массы тела\Debug\Решение уравнения.exe
